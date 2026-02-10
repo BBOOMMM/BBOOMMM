@@ -25,7 +25,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/BBOOMMM/count.svg)
 </p>
 
 ### My Contributions
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=You+will+be+successful!;BBOOMMM)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+student+majoring+in+AI.;I+love+music+and+my+favourite+singer+is+Adele!)
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
