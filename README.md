@@ -24,7 +24,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/BBOOMMM/count.svg)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=260&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=28&desc=I%20am%20BOOM%F0%9F%98%81&descAlign=50&descSize=30&descAlignY=56&animation=twinkling" />
 </p>
 
-### My Contributions
+### Introduction
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+student+majoring+in+AI.;I+love+pop+music!;And+my+favourite+singer+is+Adele!)
 
   <!-- for beauty 留个空行好看点 -->
